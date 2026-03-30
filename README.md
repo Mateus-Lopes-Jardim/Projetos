@@ -13,6 +13,8 @@ consumo_mensal = (potencia * horas_dia * 30) / 1000
 print(f"\nAparelho: {aparelho}")
 print(f"Consumo mensal: {consumo_mensal:.2f} kWh")
 
+![Static Badge](https://img.shields.io/badge/python-blue)
+![Static Badge](https://img.shields.io/badge/energy-black)
 
 git remote add origin https://github.com/mateu/projetos.git
 git branch -M main
